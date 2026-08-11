@@ -27,7 +27,7 @@ Atualmente, estou direcionando meus estudos para desenvolvimento de sistemas e p
 Aqui você encontrará projetos desenvolvidos durante meus estudos, incluindo exercícios de lógica, programas em Python e atividades acadêmicas.
 ### Cadastro de pessoas
 
-Sistema desenvolvido em Python para cadastrar pessoas e verificar se o RG e o CPF estão em formatos válidos.
+Sistema em desenvolvimento na linguagem Python para cadastrar pessoas e verificar se o RG e o CPF estão em formatos válidos.
 
 [Ver projeto no GitHub](https://github.com/GustavoBernardino/Cadastro-de-pessoa)
 ## Entre em contato
