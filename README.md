@@ -25,12 +25,18 @@ Atualmente, estou direcionando meus estudos para desenvolvimento de sistemas e p
 ## Projetos em destaque
 
 Aqui você encontrará projetos desenvolvidos durante meus estudos, incluindo exercícios de lógica, programas em Python e atividades acadêmicas.
-### Cadastro de pessoas
 
-Sistema em desenvolvimento na linguagem Python para cadastrar pessoas e verificar se o RG e o CPF estão em formatos válidos.
+### 👤 Cadastro de pessoas
 
-[Ver projeto no GitHub](https://github.com/GustavoBernardino/Cadastro-de-pessoa)
+Sistema em desenvolvimento com Python e interface gráfica para cadastrar dados pessoais e verificar se CPF, RG e data de nascimento estão em formatos válidos.
 
+**Principais recursos:**
+
+- Cadastro e exibição de dados pessoais
+- Validação de CPF, RG e data de nascimento
+- Interface gráfica para confirmação dos dados
+
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBernardino/Cadastro-de-pessoa)
 ### 🛒 Simulador de Supermercado
 
 Programa em Python que registra produtos, calcula o total da compra e permite escolher entre pagamento em dinheiro, débito ou crédito parcelado com juros.
@@ -43,6 +49,7 @@ Programa em Python que registra produtos, calcula o total da compra e permite es
 - Cálculo de juros e parcelas
 
 [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBernardino/mercado)
+
 ## Entre em contato
 
 - LinkedIn: https://www.linkedin.com/in/gustavo-bernardino-296776234/
