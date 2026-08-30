@@ -51,6 +51,8 @@ Programa em Python que registra produtos, calcula o total da compra e permite es
 [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBernardino/mercado)
 ### 💰 Controle Financeiro
 
+> 🚧 **Projeto em desenvolvimento:** novas funcionalidades e melhorias ainda serão adicionadas.
+
 Sistema desenvolvido em Python para registrar e acompanhar receitas e despesas, organizando as movimentações financeiras por categoria.
 
 **Principais recursos:**
