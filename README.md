@@ -49,6 +49,20 @@ Programa em Python que registra produtos, calcula o total da compra e permite es
 - Cálculo de juros e parcelas
 
 [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBernardino/mercado)
+### 💰 Controle Financeiro
+
+Sistema desenvolvido em Python para registrar e acompanhar receitas e despesas, organizando as movimentações financeiras por categoria.
+
+**Principais recursos:**
+
+- Cadastro de receitas e despesas
+- Organização das movimentações por categoria
+- Registro de descrição, valor e data
+- Consulta das movimentações cadastradas
+- Geração de relatórios financeiros
+- Armazenamento dos dados em arquivo
+
+[![Ver Projeto](https://img.shields.io/badge/VER%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoBernardino/ControleFinanceiro)
 
 ## Entre em contato
 
